@@ -22,5 +22,5 @@ Y = A·B + C'·D
 ### How to Run:
 Download the project, navigate to the directory, and run `main.py`.
 
-## Output and Expected Functionality:
+### Output and Expected Functionality:
 `main.py` prints several values to terminal. Firstly, the initial register states are printed. Then three cycles are performed; one for each line of instruction. Every step is printed. Finally, the final output is printed, alongside the expected output (calculated as a single Boolean expression).
